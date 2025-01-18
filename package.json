@@ -1,0 +1,13 @@
+{
+    "name": "amplify_pce",
+    "version": "1.0.0",
+    "description": "Projeto para build no AWS Amplify",
+    "main": "index.html",
+    "scripts": {
+      "build": "echo \"No build script specified.\" && exit 0"
+    },
+    "author": "Leonardo Alves",
+    "license": "ISC",
+    "dependencies": {}
+  }
+  
