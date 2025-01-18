@@ -738,7 +738,7 @@ figcaption {
 
 .padding-global {
   padding-right: 2.5rem;
-  padding-left: 2.5rem;
+  padding-left: 0.75rem;
 }
 
 .text-weight-normal {
@@ -1714,8 +1714,8 @@ figcaption {
 }
 
 .padding-global-2 {
-  padding-right: 5%;
-  padding-left: 5%;
+  padding-right: 5cqw;
+  padding-left: 2%;
 }
 
 .social-icon {
@@ -1728,7 +1728,7 @@ figcaption {
   justify-content: space-between;
   flex-wrap: nowrap;
   align-items: center;
-  grid-column-gap: 2rem;
+  grid-column-gap: 0.75rem;
   -ms-grid-columns: 1fr 1fr;
   grid-template-columns: 1fr 1fr;
   -ms-grid-rows: auto;
@@ -1811,8 +1811,8 @@ figcaption {
 }
 
 .footer-map {
-  width: 100%;
-  max-width: 300px;
+  width: 50%;
+  max-width: 80px;
 }
 
 .section_interno-hero {
@@ -1964,8 +1964,8 @@ figcaption {
 }
 
 .footer-maps_embed {
-  width: 500px;
-  height: 300px;
+  width: 400px;
+  height: 200px;
   background-color: #fff;
   color: #fff;
   text-decoration: none;
@@ -2687,7 +2687,7 @@ figcaption {
 
   .padding-global {
     padding-right: 1.25rem;
-    padding-left: 1.25rem;
+    padding-left: 0.75rem;
   }
 
   .padding-section-small {
@@ -3004,7 +3004,7 @@ figcaption {
   }
 
   .footer-maps_embed {
-    width: 100%;
+    width: 50%;
   }
 
   .layout352_item {
