@@ -4,7 +4,7 @@
     "description": "Projeto para build no AWS Amplify",
     "main": "index.html",
     "scripts": {
-      "build": "echo \"No build script specified.\" && exit 0"
+      "build": "echo 'No build required.'"
     },
     "author": "Leonardo Alves",
     "license": "ISC",
