@@ -4,10 +4,11 @@
     "description": "Projeto para build no AWS Amplify",
     "main": "index.html",
     "scripts": {
-      "build": "echo 'No build required.'"
+        "build": "echo 'No build required.'"
     },
     "author": "Leonardo Alves",
     "license": "ISC",
-    "dependencies": {}
-  }
-  
+    "dependencies": {
+        "amplify_pce": "file:"
+    }
+}
